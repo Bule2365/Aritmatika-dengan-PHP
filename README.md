@@ -20,8 +20,7 @@ Aplikasi kalkulator sederhana yang memungkinkan pengguna untuk menghitung ekspre
 ### Prasyarat
 
 - PHP sudah terinstal di komputer Anda.
-- Web server (seperti Apache atau Nginx) yang mendukung PHP.
-- Git (opsional, untuk meng-clone repository).
+- Web server (seperti xampp atau laragon) yang mendukung PHP.
 
 ### Langkah-langkah untuk Menjalankan Aplikasi:
 
